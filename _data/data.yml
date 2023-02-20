@@ -42,8 +42,8 @@ sidebar:
       - item: Machine Learning
         link:
         
-      - item: Computer Vision
-        link:
+#       - item: Computer Vision
+#         link:
 
 career-profile:
     title: Career Profile
