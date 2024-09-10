@@ -84,7 +84,7 @@ experiences:
       details: |
           Worked as a summer intern in the AP Group within the MX Business of Samsung Electronics doing performance profiling.
           Verified the claimed efficiency gains between ARMv8 and ARMv9 micro-architectures using the Spec2006 benchmark.
-          Setup a machine learning automation pipeline for measuring power efficency in various mobile APs using Tensorflow.
+          Setup a machine learning pipeline for automatically measuring power efficency in various mobile APs using Tensorflow.
     - role: Graduate Student Researcher
       time: Feb.2023 - Present
       company: CAD & SoC Design Lab(CSDL) in POSTECH, Prof, Seokhyeong Kang
