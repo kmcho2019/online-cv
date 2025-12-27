@@ -136,6 +136,20 @@ experiences:
 #         link: "#"
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
+publications:
+    title: Publications
+    intro: |
+      Selected publications regarding Electronic Design Automation (EDA) and AI acceleration.
+    papers:
+      - title: "REvolution: An Evolutionary Framework for RTL Generation driven by Large Language Models"
+        link: "https://arxiv.org/abs/2510.21407"
+        authors: Kyungjun Min*, <b>Kyumin Cho*</b>, Junhwan Jang, Seokhyeong Kang (*Equal Contribution)
+        conference: "Accepted to ASP-DAC 2026"
+      - title: "ViT-ToGo: Vision Transformer Accelerator with Grouped Token Pruning"
+        link: "https://past.date-conference.com/proceedings-archive/2024/DATA/161_pdf_upload.pdf"
+        authors: Seungju Lee, <b>Kyumin Cho</b>, Eunji Kwon, Sejin Park, Seojeong Kim, Seokhyeong Kang
+        conference: "Design, Automation & Test in Europe Conference (DATE), 2024"
+
 # publications:
 #     title: Publications
 #     intro: |
@@ -166,10 +180,10 @@ skills:
         level: 40%
 
       - name: C/C++
-        level: 40%
+        level: 30%
 
       - name: Verilog
-        level: 30%
+        level: 10%
         
       - name: Tensorflow/Pytorch
         level: 20%
